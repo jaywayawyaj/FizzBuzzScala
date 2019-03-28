@@ -7,3 +7,4 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- #filter returns fizz instead of multiples of 5[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- #filter returns fizz instead of multiples of 5 (5000)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- #filter returns fizzbuzz instead of 15[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- #filter returns fizzbuzz instead of multiples of 15[0m[0m
