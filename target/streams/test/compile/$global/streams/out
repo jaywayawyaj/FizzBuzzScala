@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jayway/IdeaProjects/FizzBuzzScala/src/test/scala/FizzBuzzTest.scala:5:21: value filter is not a member of object FizzBuzz[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(FizzBuzz.filter(1) === 1)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
