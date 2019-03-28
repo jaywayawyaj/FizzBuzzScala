@@ -28,4 +28,8 @@ class FizzBuzzTest extends FunSuite {
   test("#filter returns fizz instead of multiples of 5 (5000)") {
     assert(FizzBuzz.filter(5000) === "Buzz")
   }
+
+  test("#filter returns fizzbuzz instead of 15") {
+    assert(FizzBuzz.filter(15) === "FizzBuzz")
+  }
 }
