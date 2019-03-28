@@ -1,5 +1,8 @@
 object FizzBuzz extends App {
   def filter(num: Int) = {
-    num
+    if (num == 3)
+      "Fizz"
+    else
+      num
   }
 }
