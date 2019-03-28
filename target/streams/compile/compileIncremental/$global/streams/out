@@ -17,11 +17,11 @@
 [0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /Users/jayway/IdeaProjects/FizzBuzzScala/target/scala-2.12/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 25f1209a for Scala compiler version 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 36732d0e for Scala compiler version 2.12.8[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/jayway/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/jayway/IdeaProjects/FizzBuzzScala/target/scala-2.12/classes[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.536964294 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.78326918 s[0m
 [0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
